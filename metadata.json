@@ -1,0 +1,6 @@
+{
+  "name": "Edmilson Ads - Portfolio e Propostas",
+  "description": "Apresentação profissional (ABT), gerador de propostas comerciais e calculadora de ROI de anúncios para captação de clientes em Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
